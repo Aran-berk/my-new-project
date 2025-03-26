@@ -4,29 +4,24 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+A web app that would tell you what dishes you could make with the available ingredients that you have. As well as step by step recipe. 
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+When deciding what to cook everyday I often get tired of eating the same thing or going to the store to buy ingredients that are missing for the dish I want to make. I can often figure out what easy to make dishes I want to make when I am tired but they never end up being so fulfilling since I just used available ingredients and just wanted to create something from what was available. Instead of doing something from my knowledge that I have already done so many times, I would like to try something new. 
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The web app would have a information box where you would fill in all types of available ingredients that you have at home. You would also fill in details for how many you are cooking for, the amount of the ingredients that you have, what type of meal (breakfast, lunch, dinner). Some more information could be needed, perhaps what cooking tools or appliances that you have available. After filling out all necessary information needed. The app would then introduce many different dishes from all over the world along with recipes on how you would make the dish. Reviews could also be implemented to help and recommend others on what other people think of the dish. The app could also have recipes and dishes that you could upload yourself. 
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![recipe]()
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="" width="300">
 
 This is how you create code examples:
 ```
