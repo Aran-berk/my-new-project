@@ -18,7 +18,7 @@ The web app would have a information box where you would fill in all types of av
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![recipe]()
+![Image of recipe]()
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="" width="300">
