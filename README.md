@@ -1,4 +1,4 @@
-# my-new-project#
+# Recipe finder #
 
 Final project for the Building AI course
 
@@ -16,55 +16,21 @@ When deciding what to cook everyday I often get tired of eating the same thing o
 
 The web app would have a information box where you would fill in all types of available ingredients that you have at home. You would also fill in details for how many you are cooking for, the amount of the ingredients that you have, what type of meal (breakfast, lunch, dinner). Some more information could be needed, perhaps what cooking tools or appliances that you have available. After filling out all necessary information needed. The app would then introduce many different dishes from all over the world along with recipes on how you would make the dish. Reviews could also be implemented to help and recommend others on what other people think of the dish. The app could also have recipes and dishes that you could upload yourself. 
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Image of recipe]()
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
+![Image of recipe](Recipe.jpg)
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+The data sources that would be used in this web app would come from various websites or blogs that post recipes for the public. One example would be the [Arla API.](https://www.arla.se/recept/) That website and many other cooking websites could be used to present different recipes from different parts of the world.
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+One challenge my project would have is that only dishes that have been published for the public would be available. Dishes that can not be found on the web is what will not be available. That would require user interaction on the website and people would have to manually upload them and that requires a lot of users on the website that are active and produces recipes.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+The project could grow by creating and app and maybe perhaps the tool of using an AI as a sort of companion during the cooking session that you could write to or speak to, that would help you and respond back to you which would help you with the creation of the dish. That would also make the app more personal and more helpful for a lot of users who stumbles upon difficulties with the recipes. 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+* Inspiration from [Arla API.](https://www.arla.se/recept/) that allows you to search for a specific ingedient and shows you recipes with that specific ingredient. 
+* Picture taken from: [Recipe picture](https://cooking.stackexchange.com/questions/47670/what-cut-of-beef-can-i-use-to-make-sukiyaki-beef)
